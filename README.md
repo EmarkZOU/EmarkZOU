@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EmarkZOU
-- 👀 I’m interested in games and new technology
-- 🌱 I’m currently learning JavaWeb and Tensonflow2
+- 🌱 I am currently a master's student in the field of medical image segmentation, specializing in contrastive learning-based methods.
 - 📫 How to reach me ? emarkzou@foxmail.com
 
 <!---
